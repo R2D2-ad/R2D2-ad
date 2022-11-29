@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS and I am excited to share some of the training projects that I have done!
-- :sunny: At the moment I am improving some of the work I have done and looking around for new practice projects in JS !
-- :raising_hand: All of my projects are available at: https://github.com/R2D2-ad?tab=repositories under the gh-pages branch
+- :sunny: Nowdays I am looking for new practice projects in JavaScript and for courses on Angular, React.
+- :raising_hand: All of my projects are available at: https://github.com/R2D2-ad?tab=repositories
+- :raising_hand: The index, js file can be found under the gh-pages branch
 
 <!--
 **R2D2-ad/R2D2-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
