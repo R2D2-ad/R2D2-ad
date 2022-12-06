@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m new in IT field and so far I have completed online courses in JavaScript, HTML, CSS, SQLite database and Python (Data structures, Data visualization, Web access). 
-:raising_hand: I have uploaded some of the exercises I completed through the courses and those can be found at https://github.com/R2D2-ad?tab=repositories. 
-                 The .index, .js file can be found under the gh-pages branch
-:sunny: Nowdays, I am practicing on beginner's projects in JavaScript.
+- 🌱 I’m new in IT field and so far I have completed online courses in JavaScript, HTML, CSS, SQLite database and Python (Data structures, Data visualization, Web access). 
+- :raising_hand: I have uploaded some of the exercises I completed through the courses and those can be found at https://github.com/R2D2-ad?tab=repositories. The .index, .js file can be found under the gh-pages branch.
+- :sunny: Nowdays, I am practicing on beginner's projects in JavaScript.
 
 <!--
 **R2D2-ad/R2D2-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
